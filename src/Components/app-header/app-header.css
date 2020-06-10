@@ -1,0 +1,41 @@
+.app-header{
+    justify-content: space-between;
+}
+.avatar {
+    height: 7.75rem;
+    width: 7.75rem;
+    border-radius: 50%;
+    z-index: 1;
+}
+.app-header h2{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+}
+.app-header h3{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+        color: #808080;
+}
+.summary{
+   
+    margin-left: -30px;
+  
+    background: #FFFBC8;
+    border: 1px solid #DADADA;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding-left:45px;
+
+    width: 75%;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}

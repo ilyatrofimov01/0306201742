@@ -1,0 +1,27 @@
+.comment-group{
+    margin-right: 24.5%;
+    margin-top: 11px;
+    padding:0;
+}
+.comment-item{
+    list-style-type: none;
+}
+.comment-item h3{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+}
+.comment-item h3 span{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px; 
+    color: gray;
+}
+.comment-item >div>span{
+    width: 450px;
+    height: 55px;
+}

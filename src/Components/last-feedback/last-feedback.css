@@ -1,0 +1,30 @@
+.last-feedback {
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-right: 24.5%;
+}
+.last-feedback h2{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+}
+.last-feedback h2 a{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration: underline;
+}
+.stat {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+}
+.likes-counter {
+    margin-right: 1rem;
+}
