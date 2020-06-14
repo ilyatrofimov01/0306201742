@@ -1,0 +1,31 @@
+form {
+    background-color: #F2F2F2;
+    margin-right: 24.5%;
+    flex-direction: column;
+    align-items: center;
+    padding:21px 28px 21px;
+}
+.btn{
+    background-color:#FDD639 ;
+    border-color: #FDD639 ;
+    color: black;
+    width: 50%;
+    margin-top: 23px;
+    border-radius: 23px;
+    font-family: PT Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+
+}
+input{
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 1px;
+    
+}
+.form-control{
+    height:  63px;
+}

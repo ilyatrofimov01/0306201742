@@ -7,7 +7,7 @@ export default class FeedbackItem extends Component {
         const {text} = this.props
 
         return (
-            <div>
+            <div className ="li-text">
                 <span>{text}</span>
             </div>
         )

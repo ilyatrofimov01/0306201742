@@ -5,7 +5,10 @@
 }
 .comment-item{
     list-style-type: none;
+    background: #F2FBFF;
+    border: 1px solid #C4CBCF;
 }
+
 .comment-item h3{
     font-family: Arial;
     font-style: normal;
@@ -24,4 +27,28 @@
 .comment-item >div>span{
     width: 450px;
     height: 55px;
+  
+}
+.date {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color:grey;
+}
+.comment-name{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color:black;
+}
+.full-list-item{
+    margin-top: 16px;
+}
+.li-text{
+    padding: 20px;
+    
 }
